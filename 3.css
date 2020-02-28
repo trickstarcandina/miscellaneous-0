@@ -1,0 +1,34 @@
+h2 {
+    color:blue;
+    width: 550px;
+    margin-left: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h4{
+    width: 400px;
+    margin-left: 200px;
+}
+hr {
+    width: 500px;
+    margin-left: 200px;
+}
+ul{
+    margin-left: 300px;
+    font-size: 13px;
+    color: chocolate;
+}
+p{
+    margin-left: 200px;
+
+}
+img.x{
+    margin-left: 200px;
+    width: 400px;
+}
+img.a{
+    margin-left: 200px;
+    width: 200px;
+}
+img.b{
+    width: 200px;
+}
